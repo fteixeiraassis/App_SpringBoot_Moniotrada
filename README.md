@@ -1,5 +1,8 @@
 # App_SpringBoot_Moniotrada
 App SpringBoot Moniotrada com Prometheus e dash Grafana
 
-#arquivo .json grafaana no diretorio grafana pode ser usado para visualizar o dash completo desenvolvido.
+Arquivo .json referente ao dash criado e pode ser usado para visualizar alguns resultados a aplicação.
+
 Também indico utilizar o dash com ID 11378
+
+Será necessario criar uma conta no slack e alterar o arquivo .yaml do alertmanager para visualizar os alertas
