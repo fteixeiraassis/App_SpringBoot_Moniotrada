@@ -1,4 +1,4 @@
-# App_SpringBoot_Moniotrada
+# App_SpringBoot_Monitrada
 App SpringBoot Moniotrada com Prometheus e dash Grafana
 
 Arquivo .json referente ao dash criado e pode ser usado para visualizar alguns resultados a aplicação.
