@@ -1,6 +1,6 @@
 global:
   #slack_api_url: 'https://hooks.slack.com/services/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'
-  slack_api_url: 'https://hooks.slack.com/services/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'
+  slack_api_url: 'adicione_aqui_seu_link_do_webhooks'
 
 templates:
 - '/etc/alertmanager/template/*.tmpl'
